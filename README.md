@@ -7,5 +7,5 @@ git status
 git add .
 git commit -m "Your commit message here"
 git pull origin main --rebase
-git pushgit push
+git push
 
