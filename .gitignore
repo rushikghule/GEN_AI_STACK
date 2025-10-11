@@ -173,3 +173,5 @@ cython_debug/
 
 Langchain/langchain-env/
 
+# virtual environments
+MCP/Gradio-env/
