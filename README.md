@@ -8,3 +8,7 @@ git add .
 git commit -m "Your commit message here"
 git pull origin main --rebase
 git push
+
+
+What is an AI agent?
+An AI agent uses an LLM to process user inputs, make decisions, call tools and MCP servers to perform actions, and generate responses.
